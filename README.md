@@ -37,4 +37,6 @@ In my journey through this course, I found several resources helpful:
 
 Feel free to explore my solutions, project, and the course materials within this repository. If you have any questions or suggestions, please don't hesitate to reach out.
 
-Happy coding!
+## Certificate
+
+https://certificates.cs50.io/2319a8cb-7532-4912-9f95-62a290b7cb74.pdf
