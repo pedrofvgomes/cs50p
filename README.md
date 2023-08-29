@@ -13,7 +13,8 @@ Welcome to my CS50's Introduction to Programming with Python repository! This re
 6. **Problem Set 6 - File I/O**: (https://github.com/pedrofvgomes/cs50p/tree/main/week6)
 7. **Problem Set 7 - Regular Expressions**: (https://github.com/pedrofvgomes/cs50p/tree/main/week7)
 8. **Problem Set 7 - Object-Oriented Programming**: (https://github.com/pedrofvgomes/cs50p/tree/main/week8)
-9. **Problem Set 9 - Et Cetera / Final Project**: (https://github.com/pedrofvgomes/cs50p/tree/main/week0) The culmination of the course where I designed and implemented my own Python project.
+9. **Problem Set 9 - Et Cetera / Final Project**: (https://github.com/pedrofvgomes/cs50p/tree/main/week0) 
+The culmination of the course where I designed and implemented my own Python project.
 
 ## Final Project
 
